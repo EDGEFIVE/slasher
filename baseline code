@@ -1,0 +1,3 @@
+@echo off
+echo Message here
+-s -f -t 60 -c "Attention. This is EDGEFIVE speaking. Playtime is over, now turn off the PC~!"
